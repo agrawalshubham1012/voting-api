@@ -29,7 +29,9 @@ $ npm run start:prod
 ```bash
 /auth/login - login:admin password:admin
 
-/auth/refresh - to update tokens
+/votes/ - to get votes
+
+/votes/create - to create vote
 
 ```
 
